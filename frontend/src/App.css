@@ -1,0 +1,25 @@
+.seat {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reserved {
+    background-color: red;
+}
+
+.pending {
+    background-color: pink;
+}
+
+.parquet {
+    background-color: yellow;
+}
+
+.loge {
+    background-color: blue;
+}
